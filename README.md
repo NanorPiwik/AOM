@@ -17,3 +17,12 @@ attribution models.
  
 See [http://www.advanced-online-marketing.com/docs.html](http://www.advanced-online-marketing.com/docs.html) for this 
 plugin's documentation.
+
+
+## FAQ
+
+* Is the AOM plugin an import of data from third party platforms such as AdWords, Bing Ads? Or is it a marketing campaign tracking plugin?
+
+* Do we need to have auto-tagging enabled in Google AdWords in order to track traffic coming from this source?
+
+* Is the conversion import done in real time?
